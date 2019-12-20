@@ -14,3 +14,6 @@ Using inferential statistics to analyse whether there is a significant differenc
 
 #### Predict
 Using the Keras Deep Learning to create a neural network that can predict the median house price based on the other variables in the dataset.
+
+The project jupyter notebook can be found [here](https://github.com/patmcdonald/MLandStatistics2019-Project/blob/master/Boston%20Dataset%20Project.ipynb) and also viewed at:
+https://nbviewer.jupyter.org/github/patmcdonald/MLandStatistics2019-Project/blob/master/Boston%20Dataset%20Project.ipynb
